@@ -19,5 +19,5 @@
 
 |Date| Papers |Title |  DOI |
 |--------- |---------- |---------- |--------|
-|20200721 | [Bioinformatics](https://academic.oup.com/bioinformatics) | Efficient dynamic variation graphs | [doi](https://doi.org/10.1093/bioinformatics/btaa640) |
 |--- | [Frontiers in Chemistry](https://www.frontiersin.org/journals/chemistry/sections/theoretical-and-computational-chemistry) | The analysis of conservative and non-conservative mutations in SARS-CoV-2 variants provides insights into the early evolution of the virus in humans  | submitted |
+|20200721 | [Bioinformatics](https://academic.oup.com/bioinformatics) | Efficient dynamic variation graphs | [doi](https://doi.org/10.1093/bioinformatics/btaa640) |
