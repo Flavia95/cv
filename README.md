@@ -1,11 +1,11 @@
-# Conferences, talks, presentations and certificates
+# Conferences, courses, presentations and certificates
 
 |DateStart| DateEnd| Conference(Abstract-Paper) |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
 |20201205 | 20201205 | [ConfDip-IGB]() | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md)
-|20201111 | 20201111 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract](abs/BBCC.md), [Presentation](https://f1000research.com/slides/9-1338), [PDF]()
+|20201116 | 20201118 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract](abs/BBCC.md), [Presentation](https://f1000research.com/slides/9-1338) |
 |20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Easy-and-Efficient-Variation-Graphs | [Poster](pos/Adam-Novak-Adam-M.-Novak-Easy-and-Efficient-Variation-Graphs-compressed-1.png)|
-|20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Scalable-variant-detection-in-pangenome-models | [Abstract](abs/Scalable-variant-detection-in-pangenome-models.md), [Poster](pos/Scalable-variant-detection-in-pangenome-models-Poster.png), [Blog](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
+|20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Scalable-variant-detection-in-pangenome-models | [Abstract](abs/Scalable-variant-detection-in-pangenome-models.md), [Poster](pos/Scalablevariantdetectioninpangenomemodels.png), [Blog](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
 |20191111 | 20191113 | [NETTAB-BBCC](http://www.igst.it/nettab/2019/) | Community efforts for Computational Proteomics | [Certificate](cert/Certificate-NETTAB-BBCC2019-Villani.pdf) |
 
 
@@ -13,9 +13,11 @@
 |---------|--------| ---------- |---------- |--------|
 |20200903| 20201007| [Course-Helper](http://www.igst.it/nettab/2019/) | Ciclo di lezioni di introduzione alla Genomica e Proteomica per biologi sperimentali | [Certificate](cert/certificate_bioinf.pdf) |
 |20190703 | 20199050 | [Course]() | Linux Shell, Git and Python | [Certificate](cert/certificate-attendance_SWCNaples_Villani.pdf)|
-|20180412 | 20190412 | [Course]() | English language certification | [Certificate]()|
-|20150382 | 20150382 | [Course]() | Primo soccorso B.L.S.D (Basic Life Support with defibrillation) e disostruzione delle vie aeree | [Certificate]()|
+|20180421 | 20190421 | [Course]() | English language certification | [Certificate](cert/engcert.png)|
+|20150328 | 20150328 | [Course]() | Primo soccorso B.L.S.D (Basic Life Support with defibrillation) e disostruzione delle vie aeree | [Certificate]()|
 
 
-|DateStart| DateEnd| Papers |Title |  Material |
-|---------|--------| ---------- |---------- |--------|
+|Date| Papers |Title |  DOI |
+|--------- |---------- |---------- |--------|
+|20200721 | [Bioinformatics](https://academic.oup.com/bioinformatics) | Efficient dynamic variation graphs | [doi](https://doi.org/10.1093/bioinformatics/btaa640) |
+|--- | [Frontiers in Chemistry](https://www.frontiersin.org/journals/chemistry/sections/theoretical-and-computational-chemistry) | The analysis of conservative and non-conservative mutations in SARS-CoV-2 variants provides insights into the early evolution of the virus in humans  | submitted |
