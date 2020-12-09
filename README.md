@@ -3,6 +3,7 @@
 |DateStart| DateEnd| Conference(Abstract-Paper) |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
 |20201205 | 20201205 | [ConfDip-IGB]() | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md)
+|20201124 | 20201124 | [CittàdellaScienza-FuturoRemoto](https://www.futuroremoto2020.it/) | Leggere il genoma del Sars-CoV-2 | [Certificate](cert/FR_Attestato.pdf)
 |20201116 | 20201118 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract](abs/BBCC.md), [Presentation](https://f1000research.com/slides/9-1338) |
 |20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Easy-and-Efficient-Variation-Graphs | [Poster](pos/Adam-Novak-Adam-M.-Novak-Easy-and-Efficient-Variation-Graphs-compressed-1.png)|
 |20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Scalable-variant-detection-in-pangenome-models | [Abstract](abs/Scalable-variant-detection-in-pangenome-models.md), [Poster](pos/Scalablevariantdetectioninpangenomemodels.png), [Blog](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
