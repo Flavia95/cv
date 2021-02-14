@@ -20,5 +20,5 @@
 
 |Date| Papers |Title |  DOI |
 |--------- |---------- |---------- |--------|
-|--- | [Scientific Reports](https://www.nature.com/srep/?gclid=CjwKCAiAsaOBBhA4EiwAo0_AnHNcuPmXPxCoiRsqS_V7iyaq_5lv10HYknNBp_jNvjxk-NulJQsKORoCuXcQAvD_BwE) | The analysis of conservative and non-conservative mutations in SARS-CoV-2 variants provides insights into the early evolution of the virus in humans  | submitted |
+|--- | [Scientific Reports](https://www.nature.com/srep/?gclid=CjwKCAiAsaOBBhA4EiwAo0_AnHNcuPmXPxCoiRsqS_V7iyaq_5lv10HYknNBp_jNvjxk-NulJQsKORoCuXcQAvD_BwE) | The analysis of conservative and non-conservative mutations in SARS-CoV-2 variants provides insights into the early evolution of the virus in humans | submitted |
 |20200721 | [Bioinformatics](https://academic.oup.com/bioinformatics) | Efficient dynamic variation graphs | [doi](https://doi.org/10.1093/bioinformatics/btaa640) |
