@@ -1,18 +1,20 @@
 # Conferences, courses, presentations and certificates
 
-|DateStart| DateEnd| Conference(Abstract-Paper) |Title |  Material |
+|DateStart| DateEnd| Conferences |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
 |20201218 | 20201218 | ConfIGB-CNR | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md), [Presentation](https://docs.google.com/presentation/d/1LKwtL63WdeaU2lSAjHZcOJ2Bhr6i5KA4-vtxHuCeXyE/edit#slide=id.gb1b49a806f_0_255)
 |20201124 | 20201124 | [CittàdellaScienza-FuturoRemoto](https://www.futuroremoto2020.it/) | Leggere il genoma del Sars-CoV-2 | [Certificate](cert/FR_Attestato.pdf), [Presentation](https://docs.google.com/presentation/d/13An-KjjxEKIOb6kpvwyJZ557A03Y6uIX3LRrwPf_6-0/edit?usp=sharing)
 |20201116 | 20201118 | [BBCC](https://www.bbcc-meetings.it/program/) | Population genomics analyses on pangenome graphs  | [Abstract](abs/BBCC.md), [Presentation](https://f1000research.com/slides/9-1338) |
 |20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Easy-and-Efficient-Variation-Graphs | [Poster](pos/Adam-Novak-Adam-M.-Novak-Easy-and-Efficient-Variation-Graphs-compressed-1.png)|
-|20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Scalable-variant-detection-in-pangenome-models | [Abstract](abs/Scalable-variant-detection-in-pangenome-models.md), [Poster](pos/Scalablevariantdetectioninpangenomemodels.png), [Blog](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html)|
+|20200921 | 20200923 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Scalable-variant-detection-in-pangenome-models | [Abstract](abs/Scalable-variant-detection-in-pangenome-models.md), [Poster](pos/Scalablevariantdetectioninpangenomemodels.png)|
 |20191111 | 20191113 | [NETTAB-BBCC](http://www.igst.it/nettab/2019/) | Community efforts for Computational Proteomics | [Certificate](cert/Certificate-NETTAB-BBCC2019-Villani.pdf) |
 
 
-|DateStart| DateEnd| Course |Title |  Material |
+|DateStart| DateEnd| Courses/Quote |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
-|20200903| 20201007| [Course-Helper](http://www.igst.it/nettab/2019/) | Ciclo di lezioni di introduzione alla Genomica e Proteomica per biologi sperimentali | [Certificate](cert/certificate_bioinf.pdf) |
+|20200903| 20201007| [Helper](http://www.igst.it/nettab/2019/) | Ciclo di lezioni di introduzione alla Genomica e Proteomica per biologi sperimentali | [Certificate](cert/certificate_bioinf.pdf) |
+|20200607| 20200830| [Helper](https://summerofcode.withgoogle.com/) | Google Summer of Code (GSOC): Parallel Graph Traversal for Variation Graphs | [Link](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html) |
+|20200620| 20200620| [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper "Le Monde":SARS-CoV-2 et Covid-19] | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
 |20190703 | 20199050 | Course | Linux Shell, Git and Python | [Certificate](cert/certificate-attendance_SWCNaples_Villani.pdf)|
 |20180421 | 20190421 | Course | English language certification | [Certificate](cert/engcert.png)|
 |20150328 | 20150328 | Course | Primo soccorso B.L.S.D (Basic Life Support with defibrillation) e disostruzione delle vie aeree | Certificate|
