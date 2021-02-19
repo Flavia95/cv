@@ -16,7 +16,7 @@
 |2020-06-20| 2020-06-20| [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper "Le Monde": SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
 |2019-07-05 | 2019-07-07 | Participant- [Course](https://tinyurl.com/4qzgcsw7)| Linux Shell, Git and Python | [Certificate](cert/certificate-attendance_SWCNaples_Villani.pdf)|
 |2018-04-21 | 2019-04-21 | Course | English language certification | [Certificate](cert/engcert.png)|
-|2015-03-28 | 2015-03-28 | Course | Primo soccorso B.L.S.D (Basic Life Support with defibrillation) e disostruzione delle vie aeree | Certificate|
+|2015-03-28 | 2015-03-28 | Course | Primo soccorso B.L.S.D (Basic Life Support with defibrillation) e disostruzione delle vie aeree | [Certificate](cert/BLSD.jpeg)|
 
 |Date| Papers |Title |  DOI |
 |--------- |---------- |---------- |--------
