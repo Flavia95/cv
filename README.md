@@ -12,7 +12,7 @@
 
 |DateStart| DateEnd| Helper in training courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
-|2020-09-03| 2020-10-07| [Activity as Helper](http://www.igst.it/nettab/2019/) | Cycle of introductory lessons to Genomics and Proteomics for experimental biologists | [Certificate](cert/certificate_bioinf.pdf) |
+|2020-09-03| 2020-10-07| [Activity as Helper](http://puglia.ordinebiologi.it/wp-content/uploads/2020/09/Ciclo-di-lezioni-di-introduzione-alla-Genomica-e-Proteomica-per-biologi-sperimentali.pdf) | Cycle of introductory lessons to Genomics and Proteomics for experimental biologists | [Certificate](cert/certificate_bioinf.pdf) |
 |2020-06-07| 2020-08-30| [Activity as Helper](https://summerofcode.withgoogle.com/) | Google Summer of Code (GSOC): Parallel Graph Traversal for Variation Graphs | [Link](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html) |
 
 
