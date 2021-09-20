@@ -2,6 +2,7 @@
 
 |DateStart| DateEnd| Talks and Poster Presentations |Title |  Material 
 |---------|--------| ---------- |---------- |--------
+|2021-09-21 | 2021-09-24| [AGI](https://agi2021.centercongressi.com/home.php) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/Abstract_AGI2021_VILLANI_FLAVIA.pdf) [Poster](pos/AGI_2021_poster.pdf)
 |2021-05-11 | 2021-05-14 | [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=21) |The PanGenome Graph Builder| [Abstract,](abs/BiologyofGenomes2021.md) [Poster](pos/BoG2021_ThePanGenomeGraphBuilder_Poster_AndreaGuarracino.pdf)
 |2020-12-18 | 2020-12-18 | ConfIGB-CNR | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md), [Presentation](https://docs.google.com/presentation/d/1LKwtL63WdeaU2lSAjHZcOJ2Bhr6i5KA4-vtxHuCeXyE/edit#slide=id.gb1b49a806f_0_255)
 |2020-11-24 | 2020-11-24 | [Festival-FuturoRemoto](https://www.futuroremoto2020.it/) | Leggere il genoma del Sars-CoV-2 | [Certificate](cert/FR_Attestato.pdf), [Presentation](https://docs.google.com/presentation/d/13An-KjjxEKIOb6kpvwyJZ557A03Y6uIX3LRrwPf_6-0/edit?usp=sharing)
