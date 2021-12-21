@@ -12,14 +12,12 @@
 |2020-09-21 | 2020-09-23 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Easy-and-Efficient-Variation-Graphs | [Poster](pos/Adam-Novak-Adam-M.-Novak-Easy-and-Efficient-Variation-Graphs-compressed-1.png)|
 |2020-09-21 | 2020-09-23 | [T2THPRC-Virtual Conference](https://www.t2t-hprc-2020conference.com/login/?redirect_to=https%3A%2F%2Fwww.t2t-hprc-2020conference.com%2F) | Scalable-variant-detection-in-pangenome-models | [Abstract](abs/Scalable-variant-detection-in-pangenome-models.md), [Poster](pos/Scalablevariantdetectioninpangenomemodels.png)|
 
-
 |DateStart| DateEnd| Helper in training courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
 |2020-09-03| 2020-10-07| [Activity as Helper](http://puglia.ordinebiologi.it/wp-content/uploads/2020/09/Ciclo-di-lezioni-di-introduzione-alla-Genomica-e-Proteomica-per-biologi-sperimentali.pdf) | Cycle of introductory lessons to Genomics and Proteomics for experimental biologists | [Certificate](cert/certificate_bioinf.pdf) |
 |2020-06-07| 2020-08-30| [Activity as Helper](https://summerofcode.withgoogle.com/) | Google Summer of Code (GSOC): Parallel Graph Traversal for Variation Graphs | [Link](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html) |
 
-
-|DateStart| DateEnd| Training Activity |Title |  Material 
+|DateStart| DateEnd| Training Activity courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
 |2021-03-16 | 2021-03-25 | [EMBO-POPGEN](https://meetings.embo.org/event/20-populationgenomics) | Population genomics: Background, tools, and programming | [Certificate](cert/certificate2_0142.pdf) |
 |2019-11-11 | 2019-11-13 | [NETTAB-BBCC](http://www.igst.it/nettab/2019/) | Community efforts for Computational Proteomics | [Certificate](cert/Certificate-NETTAB-BBCC2019-Villani.pdf) |
