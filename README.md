@@ -2,7 +2,7 @@
 
 |DateStart| DateEnd| Talks and Poster Presentations |Title |  Material 
 |---------|--------| ---------- |---------- |--------
-|2021-12-09 | 2021-12-10| [pgbh](https://pgbh2021.pangenome.eu/) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/pgbh2021.md) [Certificate]()
+|2021-12-09 | 2021-12-10| [pgbh](https://pgbh2021.pangenome.eu/) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/pgbh2021.md) [Certificate](cert/pgbh2021-certificate-VILLANI-FLAVIA.pdf)
 |2021-09-21 | 2021-09-24| [AGI](https://agi2021.centercongressi.com/home.php) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/Abstract_AGI2021_VILLANI_FLAVIA.pdf) [Poster](pos/AGI_2021_poster.pdf)
 |2021-09-01 | 2021-09-03| [CTC-RG 18thAnnual Meeting Models for precision medicine](https://www.complextrait.org/ctc2021/)|mRatBN7 ushers in a new era of rat genomics and genetics research| [Abstract,](abs/ctc2021.md) [Slides](https://chen42.github.io/slides/ctc_rg_2021.html)
 |2021-05-11 | 2021-05-14 | [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=21) |The PanGenome Graph Builder| [Abstract,](abs/BiologyofGenomes2021.md) [Poster](pos/BoG2021_ThePanGenomeGraphBuilder_Poster_AndreaGuarracino.pdf)
@@ -32,6 +32,6 @@
 
 |Date| Papers |Title |  DOI |
 |--------- |---------- |---------- |--------
-|--- | [Scientific Reports](https://www.nature.com/srep/?gclid=CjwKCAiAsaOBBhA4EiwAo0_AnHNcuPmXPxCoiRsqS_V7iyaq_5lv10HYknNBp_jNvjxk-NulJQsKORoCuXcQAvD_BwE) | A global analysis of conservative and non-conservative mutations in SARS-CoV-2 detected in the first year of the COVID-19 world-wide diffusion | accepted |
+|2021-12-31|[Scientific Reports](https://www.nature.com/srep/?gclid=CjwKCAiAsaOBBhA4EiwAo0_AnHNcuPmXPxCoiRsqS_V7iyaq_5lv10HYknNBp_jNvjxk-NulJQsKORoCuXcQAvD_BwE) | A global analysis of conservative and non-conservative mutations in SARS-CoV-2 detected in the first year of the COVID-19 world-wide diffusion |[doi](https://doi.org/10.1038/s41598-021-04147-1)|
 |2021-11-04 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467006v1.full) | SVJAM: Joint Analysis of Structural Variants Using Linked Read Sequencing Data | [doi]( https://doi.org/10.1101/2021.11.02.467006) |
 |2020-07-21 | [Bioinformatics](https://academic.oup.com/bioinformatics) | Efficient dynamic variation graphs | [doi](https://doi.org/10.1093/bioinformatics/btaa640) |
