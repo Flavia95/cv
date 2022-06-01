@@ -14,17 +14,20 @@
 
 |DateStart| DateEnd| Helper in training courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
+|2022-05-23 | 2022-05-27| [Activity as Helper](https://gtpb.github.io/CPANG22/) |Computational Pangenomics (CPANG22)| [Certificate](cert/cpang.jpg)
 |2020-09-03| 2020-10-07| [Activity as Helper](http://puglia.ordinebiologi.it/wp-content/uploads/2020/09/Ciclo-di-lezioni-di-introduzione-alla-Genomica-e-Proteomica-per-biologi-sperimentali.pdf) | Cycle of introductory lessons to Genomics and Proteomics for experimental biologists | [Certificate](cert/certificate_bioinf.pdf) |
 |2020-06-07| 2020-08-30| [Activity as Helper](https://summerofcode.withgoogle.com/) | Google Summer of Code (GSOC): Parallel Graph Traversal for Variation Graphs | [Link](https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html) |
 
 |DateStart| DateEnd| Training Activity courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
+|2022-05-07 | 2022-05-07| [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html) |HIPAA Compliance 13: Violation and Penalties| [Certificate](cert/pgbh2021-certificate-VILLANI-FLAVIA.pdf)
 |2021-03-16 | 2021-03-25 | [EMBO-POPGEN](https://meetings.embo.org/event/20-populationgenomics) | Population genomics: Background, tools, and programming | [Certificate](cert/certificate2_0142.pdf) |
 |2019-11-11 | 2019-11-13 | [NETTAB-BBCC](http://www.igst.it/nettab/2019/) | Community efforts for Computational Proteomics | [Certificate](cert/Certificate-NETTAB-BBCC2019-Villani.pdf) |
 |2019-07-05 | 2019-07-07 | Participant- [Course](https://tinyurl.com/4qzgcsw7)| Linux Shell, Git and Python | [Certificate](cert/certificate-attendance_SWCNaples_Villani.pdf)|
 
 |DateStart| DateEnd| Certificates and Achievements|Title |  Material 
 |---------|--------| ---------- |---------- |--------
+|2021-09-21| present| AGI | Associate Member of the A.G.I. | [Link](https://www.associazionegeneticaitaliana.it/user/flavia+villani/)|
 |2020-10-20| present| Human Pangenome Reference Consortium | Associate Member of the Human Pangenome Reference Consortium | [Link](https://humanpangenome.org/about-us/associate-members/)|
 |2020-06-20| 2020-06-20| [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper "Le Monde": SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
 |2018-04-21 | 2019-04-21 | Course | English language certification | [Certificate](cert/engcert.png)|
