@@ -2,7 +2,7 @@
 
 |DateStart| DateEnd| Talks and Poster Presentations |Title |  Material 
 |---------|--------| ---------- |---------- |--------
-|2022-09-29 | 2022-09-30| [ctc/rg2022](https://complextrait.org/meetings/ctc-rg2022/program.html) |Initial effort in generating a rat pangenome| [Abstract](abs/ctc/ctc_rg2022.md)
+|2022-09-29 | 2022-09-30| [ctc/rg2022](https://complextrait.org/meetings/ctc-rg2022/resources/CTC-RG2022Program.pdf) |Initial effort in generating a rat pangenome| [Abstract](abs/ctc/ctc_rg2022.md)
 |2021-12-09 | 2021-12-10| [pgbh](https://pgbh2021.pangenome.eu/) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/pgbh2021.md) [Certificate](cert/pgbh2021-certificate-VILLANI-FLAVIA.pdf)
 |2021-09-21 | 2021-09-24| [AGI](https://agi2021.centercongressi.com/home.php) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/Abstract_AGI2021_VILLANI_FLAVIA.pdf) [Poster](pos/AGI_2021_poster.pdf)
 |2021-09-01 | 2021-09-03| [CTC-RG 18thAnnual Meeting Models for precision medicine](https://www.complextrait.org/ctc2021/)|mRatBN7 ushers in a new era of rat genomics and genetics research| [Abstract,](abs/ctc2021.md) [Slides](https://chen42.github.io/slides/ctc_rg_2021.html)
