@@ -21,6 +21,7 @@
 
 |DateStart| DateEnd| Training Activity courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
+|2023-01-25 | 2023-01-25| [CITI program](https://www.citiprogram.org) |Basic Human Subject Protections + Good Clinical Practice for Clinical Researchers | [Certificate]()
 |2022-05-07 | 2022-05-07| [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html) |HIPAA Compliance 13: Violation and Penalties| [Certificate](cert/pgbh2021-certificate-VILLANI-FLAVIA.pdf)
 |2021-03-16 | 2021-03-25 | [EMBO-POPGEN](https://meetings.embo.org/event/20-populationgenomics) | Population genomics: Background, tools, and programming | [Certificate](cert/certificate2_0142.pdf) |
 |2019-11-11 | 2019-11-13 | [NETTAB-BBCC](http://www.igst.it/nettab/2019/) | Community efforts for Computational Proteomics | [Certificate](cert/Certificate-NETTAB-BBCC2019-Villani.pdf) |
