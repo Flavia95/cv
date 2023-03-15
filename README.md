@@ -29,6 +29,7 @@
 
 |DateStart| DateEnd| Certificates and Achievements|Title |  Material 
 |---------|--------| ---------- |---------- |--------
+|2023| present| ONB | Licensed by the National Board Examination for Biologists (Esame di Stato ONB, 10/10) | [Link](https://github.com/Flavia95/cv/blob/master/cert/villani.pdf)|
 |2021-09-21| present| AGI | Associate Member of the A.G.I. | [Link](https://www.associazionegeneticaitaliana.it/user/flavia+villani/)|
 |2020-10-20| present| Human Pangenome Reference Consortium | Associate Member of the Human Pangenome Reference Consortium | [Link](https://humanpangenome.org/about-us/associate-members/)|
 |2020-06-20| 2020-06-20| [Lemonde/binaire](https://www.lemonde.fr/blog/binaire/) | Quote in the newspaper "Le Monde": SARS-CoV-2 et Covid-19 | [Link](https://www.lemonde.fr/blog/binaire/2020/05/06/sars-cov-2-et-covid-19-on-va-jouer-sur-les-mots/)|
