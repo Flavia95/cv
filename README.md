@@ -36,8 +36,6 @@
 |2018-04-21 | 2019-04-21 | Course | English language certification | [Certificate](cert/engcert.png)|
 |2015-03-28 | 2015-03-28 | Course | Primo soccorso B.L.S.D (Basic Life Support with defibrillation) e disostruzione delle vie aeree | [Certificate](cert/BLSD.jpeg)|
 
-|Date| Papers |Title |  DOI |
-|--------- |---------- |---------- |--------
-|2021-12-31|[Scientific Reports](https://www.nature.com/srep/?gclid=CjwKCAiAsaOBBhA4EiwAo0_AnHNcuPmXPxCoiRsqS_V7iyaq_5lv10HYknNBp_jNvjxk-NulJQsKORoCuXcQAvD_BwE) | A global analysis of conservative and non-conservative mutations in SARS-CoV-2 detected in the first year of the COVID-19 world-wide diffusion |[doi](https://doi.org/10.1038/s41598-021-04147-1)|
-|2021-11-04 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467006v1.full) | SVJAM: Joint Analysis of Structural Variants Using Linked Read Sequencing Data | [doi]( https://doi.org/10.1101/2021.11.02.467006) |
-|2020-07-21 | [Bioinformatics](https://academic.oup.com/bioinformatics) | Efficient dynamic variation graphs | [doi](https://doi.org/10.1093/bioinformatics/btaa640) |
+|Publications|
+|--------- 
+|[google scholar](https://scholar.google.com/citations?user=CrklVWcAAAAJ&hl=en)|
