@@ -2,11 +2,9 @@
 
 |DateStart| DateEnd| Talks and Poster Presentations |Title |  Material 
 |---------|--------| ---------- |---------- |--------
-
-|2024-05-07 | 2024-05-11| [bog](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=24) |Pangenome reconstruction in rats enhances
-genotype-phenotype mapping and novel variant discovery| [Poster](https://github.com/Flavia95/cv/blob/master/pos/BOG__ghrvillani.pdf)
+|2024-05-07 | 2024-05-11| [bog](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=24) |Pangenome reconstruction in rats enhances genotype-phenotype mapping and novel variant discovery| [Poster](https://github.com/Flavia95/cv/blob/master/pos/BOG__ghrvillani.pdf)
 |2023-07-23 | 2023-07-37| [smbe](https://www.smbe2023.org/) |Building a Pangenome Graph for the HXB/BXH Recombinant Inbred Rat Strain Family: Enhanced Discovery of Complex Variants and Validation with Sanger Sequencing| [Poster](https://github.com/Flavia95/cv/blob/master/pos/SMBE_BuildingaPangenomeGraphfortheHXB_BXHRecombinantInbredRatStrainFamily.pdf), [Certificate](https://github.com/Flavia95/cv/blob/master/cert/SMBE2023_Certificate_of_Attendance.pdf)
-|2023-10-08 | 2023-10-10| [ctc/rg2023](https://complextrait.org/meetings/ctc-rg2023/) |Unveiling genetic complexity in rats through pangenome graphs and Genome-Phenome analysis| [Abstract](https://github.com/Flavia95/cv/blob/master/abs/2023_CTC.md). Talk.
+|2023-10-08 | 2023-10-10| [ctc/rg2023](https://complextrait.org/meetings/ctc-rg2023/) |Unveiling genetic complexity in rats through pangenome graphs and Genome-Phenome analysis| [Abstract](https://github.com/Flavia95/cv/blob/master/abs/2023_CTC.md).
 |2022-09-29 | 2022-09-30| [ctc/rg2022](https://complextrait.org/meetings/ctc-rg2022/resources/CTC-RG2022Program.pdf) |Initial effort in generating a rat pangenome| [Abstract](abs/ctc/ctc_rg2022.md)
 |2021-12-09 | 2021-12-10| [pgbh](https://pgbh2021.pangenome.eu/) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/pgbh2021.md) [Certificate](cert/pgbh2021-certificate-VILLANI-FLAVIA.pdf)
 |2021-09-21 | 2021-09-24| [AGI](https://agi2021.centercongressi.com/home.php) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/Abstract_AGI2021_VILLANI_FLAVIA.pdf) [Poster](pos/AGI_2021_poster.pdf)
@@ -21,7 +19,7 @@ genotype-phenotype mapping and novel variant discovery| [Poster](https://github.
 |DateStart| DateEnd| Helper in training courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
 |2024-05-18 | 2023-05-22| [Activity as Organizer and Helper](https://pangenome.github.io/MemPanG24/#_practical_course_workshop_instructors) |Computational pangenomics course, conference, and biohackathon in Memphis (MemPanG24)| [Certificate]()
-|2023-10-08 | 2023-10-12| [Activity as Organizer and Instructor](https://complextrait.org/meetings/ctc-rg2023/) |20th Annual Meeting of the Complex Trait Community | Rat Genome & Models| [Certificate]()
+|2023-10-08 | 2023-10-12| [Activity as Organizer and Instructor](https://complextrait.org/meetings/ctc-rg2023/) |20th Annual Meeting of the Complex Trait Community, Rat Genome & Models| [Certificate]()
 |2023-05-30 | 2023-06-02| [Activity as Organizer and Helper](https://pangenome.github.io/MemPanG23/#_about_the_practical_course) |A computational pangenomics course and virtual conference in Memphis, TN (MemPanG23)| [Certificate](https://github.com/Flavia95/cv/blob/master/cert/Certificate_Flavia.pdf)
 |2022-05-23 | 2022-05-27| [Activity as Helper](https://gtpb.github.io/CPANG22/) |Computational Pangenomics (CPANG22)| [Certificate](cert/cpang.jpg)
 |2020-09-03| 2020-10-07| [Activity as Helper](http://puglia.ordinebiologi.it/wp-content/uploads/2020/09/Ciclo-di-lezioni-di-introduzione-alla-Genomica-e-Proteomica-per-biologi-sperimentali.pdf) | Cycle of introductory lessons to Genomics and Proteomics for experimental biologists | [Certificate](cert/certificate_bioinf.pdf) |
@@ -37,8 +35,9 @@ genotype-phenotype mapping and novel variant discovery| [Poster](https://github.
 
 |DateStart| DateEnd| Certificates and Achievements|Title |  Material 
 |---------|--------| ---------- |---------- |--------
-|Award|
-|Award2|
+|2023-12-15| College of Graduate Health Sciences | Student Impact and Advocacy Leadership Award |[Certificate](https://github.com/Flavia95/cv/blob/master/cert/Villani_SIALA%20Letter.pdf) | [Link](https://us18.campaign-archive.com/?e=%5bUNIQID%5d&u=0f640ec983779973122a5577b&id=3a5c9d2e8b) [Links] (https://uthsc.edu/access-compliance/awards-achievement/previous-recipients-student-recognition-award.php)|  
+|2023-05-05| College of Graduate Health Sciences | 2023 Outstanding Student Awardee|[Certificate](https://github.com/Flavia95/cv/blob/master/cert/award2.jpg) | [Link](https://news.uthsc.edu/students-postdocs-and-faculty-recognized-at-the-2023-graduate-research-day-and-awards/)|
+|2023-05-05| College of Graduate Health Sciences | 2023 Dean's Award| [Certificate](https://github.com/Flavia95/cv/blob/master/cert/award1.jpg) | [Link](https://news.uthsc.edu/students-postdocs-and-faculty-recognized-at-the-2023-graduate-research-day-and-awards/)|
 |2023| present| ONB | Licensed by the National Board Examination for Biologists (Esame di Stato ONB, 10/10) | [Link](https://github.com/Flavia95/cv/blob/master/cert/villani.pdf)|
 |2021-09-21| present| AGI | Associate Member of the A.G.I. | [Link](https://www.associazionegeneticaitaliana.it/user/flavia+villani/)|
 |2020-10-20| present| Human Pangenome Reference Consortium | Associate Member of the Human Pangenome Reference Consortium | [Link](https://humanpangenome.org/about-us/associate-members/)|
