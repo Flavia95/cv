@@ -20,7 +20,7 @@
 
 |DateStart| DateEnd| Instructor and Helper in training courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
-|2024-10-21 | 2024-10-25| [Organizer and instructor] |Human Pangenome BYOD Analysis Workshop by H3ABioNet (Cape Town, South Africa))| [Website](https://elwazi.org/trainings/28)
+|2024-10-21 | 2024-10-25| [Organizer and instructor](https://elwazi.org/trainings/28) |Human Pangenome BYOD Analysis Workshop by H3ABioNet (Cape Town, South Africa))| [Website](https://elwazi.org/trainings/28)
 |2024-06-19| 2023-06-21| [Organizer and instructor](https://elixir-iib-training.github.io/site/2024-06-19-Pangenomics) |Computational Pangenomics, University of Rome La Sapienza (Rome, Italy)| [Certificate](cert/21_Flavia_Instructor_Certificate_corsiElixir.pdf)
 |2024-05-18 | 2023-05-22| [Activity as Organizer and Helper](https://pangenome.github.io/MemPanG24/#_practical_course_workshop_instructors) |Computational pangenomics course, conference, and biohackathon in Memphis (MemPanG24)| [Certificate](cert/19_MemPang24_2024.pdf)
 |2023-11-13 | 2023-11-17| [Instructor](https://github.com/AndreaGuarracino/ReferenceGraphPangenomeDataAnalysisHackathon2023) |Pangenome & RefGraph Workshop by H3ABioNet (Cape Town, South Africa)| [Certificate](cert/20_Refgraph_invitation_letter_Flavia_Villani .pdf)
