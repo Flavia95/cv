@@ -2,10 +2,10 @@
 
 |DateStart| DateEnd| Talks and Poster Presentations |Title |  Material 
 |---------|--------| ---------- |---------- |--------
-|2024-10-02 | 2024-10-05| [Complex Trait Community and the Rat Genomics 2024](https://rgd.mcw.edu/rgdweb/ctc-rg2024/program.html) |Pangenome mapping enhances genotype-phenotype associations in BXD mouse family by Flavia Villani.| [Presentation](https://rgd.mcw.edu/rgdweb/common/abstracts/presentation/October-3rd/Session-1/1-Villani.pdf)
+|2024-10-02 | 2024-10-05| [Complex Trait Community and the Rat Genomics 2024](https://rgd.mcw.edu/rgdweb/ctc-rg2024/program.html) |Pangenome mapping enhances genotype-phenotype associations in BXD mouse family| [Presentation](https://rgd.mcw.edu/rgdweb/common/abstracts/presentation/October-3rd/Session-1/1-Villani.pdf)
 |2024-05-07 | 2024-05-11| [bog](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=24) |Pangenome reconstruction in rats enhances genotype-phenotype mapping and novel variant discovery| [Poster](https://github.com/Flavia95/cv/blob/master/pos/BOG__ghrvillani.pdf)
 |2023-07-23 | 2023-07-37| [smbe](https://www.smbe2023.org/) |Building a Pangenome Graph for the HXB/BXH Recombinant Inbred Rat Strain Family: Enhanced Discovery of Complex Variants and Validation with Sanger Sequencing| [Poster](https://github.com/Flavia95/cv/blob/master/pos/SMBE_BuildingaPangenomeGraphfortheHXB_BXHRecombinantInbredRatStrainFamily.pdf), [Certificate](https://github.com/Flavia95/cv/blob/master/cert/SMBE2023_Certificate_of_Attendance.pdf)
-|2023-06-29 | 2023-06-29| [Invited speaker-CNR] |Pangenomics of model organisms| [Website](https://www.igb.cnr.it/index.php/events/prioritization-of-putatively-damaging-genetic-variants-in-oocytes-embryo-developmental-arrest-909-488-692-613-231-277-939-252-645-990-383-662-598-770/).
+|2023-06-29 | 2023-06-29| [Invited speaker-CNR](https://www.igb.cnr.it/) |Pangenomics of model organisms| [Website](https://www.igb.cnr.it/index.php/events/prioritization-of-putatively-damaging-genetic-variants-in-oocytes-embryo-developmental-arrest-909-488-692-613-231-277-939-252-645-990-383-662-598-770/).
 |2023-10-08 | 2023-10-10| [ctc/rg2023](https://complextrait.org/meetings/ctc-rg2023/) |Unveiling genetic complexity in rats through pangenome graphs and Genome-Phenome analysis| [Abstract](https://github.com/Flavia95/cv/blob/master/abs/2023_CTC.md).
 |2022-09-29 | 2022-09-30| [ctc/rg2022](https://complextrait.org/meetings/ctc-rg2022/resources/CTC-RG2022Program.pdf) |Initial effort in generating a rat pangenome| [Abstract](abs/ctc/ctc_rg2022.md)
 |2021-12-09 | 2021-12-10| [pgbh](https://pgbh2021.pangenome.eu/) |A pangenome for the expanded BXD family of mice| [Abstract,](abs/pgbh2021.md) [Certificate](cert/pgbh2021-certificate-VILLANI-FLAVIA.pdf)
@@ -21,10 +21,10 @@
 |DateStart| DateEnd| Instructor and Helper in training courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
 |2024-10-21 | 2024-10-25| [Organizer and instructor] |Human Pangenome BYOD Analysis Workshop by H3ABioNet (Cape Town, South Africa))| [Website](https://elwazi.org/trainings/28)
-|2024-06-19| 2023-06-21| [Organizer and instructor](https://elixir-iib-training.github.io/site/2024-06-19-Pangenomics) |Computational Pangenomics, University of Rome La Sapienza (Rome, Italy)| [Certificate]()
-|2024-05-18 | 2023-05-22| [Activity as Organizer and Helper](https://pangenome.github.io/MemPanG24/#_practical_course_workshop_instructors) |Computational pangenomics course, conference, and biohackathon in Memphis (MemPanG24)| [Certificate]()
-|2023-11-13 | 2023-11-17| [Instructor](https://github.com/AndreaGuarracino/ReferenceGraphPangenomeDataAnalysisHackathon2023) |Pangenome & RefGraph Workshop by H3ABioNet (Cape Town, South Africa)| [Certificate]()
-|2023-10-08 | 2023-10-12| [Activity as Organizer and Instructor](https://complextrait.org/meetings/ctc-rg2023/) |20th Annual Meeting of the Complex Trait Community, Rat Genome & Models| [Certificate]()
+|2024-06-19| 2023-06-21| [Organizer and instructor](https://elixir-iib-training.github.io/site/2024-06-19-Pangenomics) |Computational Pangenomics, University of Rome La Sapienza (Rome, Italy)| [Certificate](cert/21_Flavia_Instructor_Certificate_corsiElixir.pdf)
+|2024-05-18 | 2023-05-22| [Activity as Organizer and Helper](https://pangenome.github.io/MemPanG24/#_practical_course_workshop_instructors) |Computational pangenomics course, conference, and biohackathon in Memphis (MemPanG24)| [Certificate](cert/19_MemPang24_2024.pdf)
+|2023-11-13 | 2023-11-17| [Instructor](https://github.com/AndreaGuarracino/ReferenceGraphPangenomeDataAnalysisHackathon2023) |Pangenome & RefGraph Workshop by H3ABioNet (Cape Town, South Africa)| [Certificate](cert/20_Refgraph_invitation_letter_Flavia_Villani .pdf)
+|2023-10-08 | 2023-10-12| [Activity as Organizer and Instructor](https://complextrait.org/meetings/ctc-rg2023/) |20th Annual Meeting of the Complex Trait Community, Rat Genome & Models| [Certificate](cert/17_CTC_2023.pdf)
 |2023-05-30 | 2023-06-02| [Activity as Organizer and Helper](https://pangenome.github.io/MemPanG23/#_about_the_practical_course) |A computational pangenomics course and virtual conference in Memphis, TN (MemPanG23)| [Certificate](https://github.com/Flavia95/cv/blob/master/cert/Certificate_Flavia.pdf)
 |2022-05-23 | 2022-05-27| [Activity as Helper](https://gtpb.github.io/CPANG22/) |Computational Pangenomics (CPANG22)| [Certificate](cert/cpang.jpg)
 |2020-09-03| 2020-10-07| [Activity as Helper](http://puglia.ordinebiologi.it/wp-content/uploads/2020/09/Ciclo-di-lezioni-di-introduzione-alla-Genomica-e-Proteomica-per-biologi-sperimentali.pdf) | Cycle of introductory lessons to Genomics and Proteomics for experimental biologists | [Certificate](cert/certificate_bioinf.pdf) |
@@ -32,7 +32,7 @@
 
 |DateStart| DateEnd| Training Activity courses |Title |  Material 
 |---------|--------| ---------- |---------- |--------
-|2023-01-25 | 2023-01-25| [CITI program](https://www.citiprogram.org) |Basic Human Subject Protections + Good Clinical Practice for Clinical Researchers | [Certificate]()
+|2023-01-25 | 2023-01-25| [CITI program](https://www.citiprogram.org) |Basic Human Subject Protections + Good Clinical Practice for Clinical Researchers | [Certificate](cert/11_CITI_2023.pdf)
 |2022-05-07 | 2022-05-07| [HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html) |HIPAA Compliance 13: Violation and Penalties| [Certificate](cert/pgbh2021-certificate-VILLANI-FLAVIA.pdf)
 |2021-03-16 | 2021-03-25 | [EMBO-POPGEN](https://meetings.embo.org/event/20-populationgenomics) | Population genomics: Background, tools, and programming | [Certificate](cert/certificate2_0142.pdf) |
 |2019-11-11 | 2019-11-13 | [NETTAB-BBCC](http://www.igst.it/nettab/2019/) | Community efforts for Computational Proteomics | [Certificate](cert/Certificate-NETTAB-BBCC2019-Villani.pdf) |
@@ -40,8 +40,8 @@
 
 |DateStart| DateEnd| Certificates and Achievements|Title |  Material 
 |---------|--------| ---------- |---------- |--------
-|2023-2024| Genetics, Genomics, and Informatics Program Representative | Graduate Student Executive Council | [Certificate]()|
-|2023-12-15| College of Graduate Health Sciences | Student Impact and Advocacy Leadership Award |[Certificate](https://github.com/Flavia95/cv/blob/master/cert/Villani_SIALA%20Letter.pdf) | [Link](https://us18.campaign-archive.com/?e=%5bUNIQID%5d&u=0f640ec983779973122a5577b&id=3a5c9d2e8b) & [Links](https://uthsc.edu/access-compliance/awards-achievement/previous-recipients-student-recognition-award.php)|  
+|2023-2024| Genetics, Genomics, and Informatics Program Representative | Graduate Student Executive Council | [Certificate](cert/gsec.pdf)|
+|2023-12-15| College of Graduate Health Sciences | Student Impact and Advocacy Leadership Award |[Certificate](cert/17_Villani_SIALA Letter.pdf) | [Link](https://us18.campaign-archive.com/?e=%5bUNIQID%5d&u=0f640ec983779973122a5577b&id=3a5c9d2e8b) & [Links](https://uthsc.edu/access-compliance/awards-achievement/previous-recipients-student-recognition-award.php)|  
 |2023-05-05| College of Graduate Health Sciences | 2023 Outstanding Student Awardee|[Certificate](https://github.com/Flavia95/cv/blob/master/cert/award2.jpg) | [Link](https://news.uthsc.edu/students-postdocs-and-faculty-recognized-at-the-2023-graduate-research-day-and-awards/)|
 |2023-05-05| College of Graduate Health Sciences | 2023 Dean's Award| [Certificate](https://github.com/Flavia95/cv/blob/master/cert/award1.jpg) | [Link](https://news.uthsc.edu/students-postdocs-and-faculty-recognized-at-the-2023-graduate-research-day-and-awards/)|
 |2023| present| ONB | Licensed by the National Board Examination for Biologists (Esame di Stato ONB, 10/10) | [Link](https://github.com/Flavia95/cv/blob/master/cert/villani.pdf)|
